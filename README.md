@@ -14,3 +14,4 @@ Week3Lecture.hs
 error.log
 sample.log
 test.pdf
+ 
